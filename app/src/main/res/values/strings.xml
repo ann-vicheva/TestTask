@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="add_button">ADD</string>
+    <string name="name_field">Name..</string>
+    <string name="age_field">Age..</string>
+    <string name="phone_field">Phone number..</string>
+    <string name="sex_field_m">Male</string>
+    <string name="sex_field_f">Female</string>
+    <string name="back_to_main">Cancel</string>
+    <string name="name_empty_message">Enter your name</string>
+    <string name="age_corect_message">Enter your correct age</string>
+    <string name="age_empty_message">Enter your age</string>
+    <string name="phone_empty_message">Enter your phone number</string>
+    <string name="success_add_message">Record was successfully added</string>
+
+</resources>
